@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://i.pinimg.com/736x/65/6a/ac/656aac4ceb634ff5ab8f893abe7456e5--back-to-work-wild-things.jpg"
     ]
 kind: ConfigMap
 metadata:
