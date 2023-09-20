@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://static.demilked.com/wp-content/uploads/2021/07/60ed37b369475-it-rage-comics-memes-reddit-60e70b01e658a__700.jpg"
     ]
 kind: ConfigMap
 metadata:
